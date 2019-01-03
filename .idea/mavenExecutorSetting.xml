@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="mavenExecutorSetting">
+    <option name="defaultSettings">
+      <ExecutionSettings>
+        <option name="projectsToBuild">
+          <list>
+            <ProjectToBuild>
+              <option name="displayName" value="Automation" />
+              <option name="mavenArtifact">
+                <MavenArtifact>
+                  <option name="groupId" value="Automation" />
+                  <option name="artifactId" value="Automation" />
+                  <option name="version" value="1.0-SNAPSHOT" />
+                </MavenArtifact>
+              </option>
+              <option name="projectDictionary" value="$PROJECT_DIR$" />
+              <option name="selectedModules">
+                <list>
+                  <MavenArtifact>
+                    <option name="groupId" value="Automation" />
+                    <option name="artifactId" value="BestBuy" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                </list>
+              </option>
+            </ProjectToBuild>
+          </list>
+        </option>
+      </ExecutionSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b73dcd5d-776d-4574-96f2-fd27b0584773" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/mavenExecutorSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Macys/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Macys/src/main/java/searchOption/Options.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Macys/src/test/java/TestMacys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Macys/src/test/resources/MacysTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebay/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebay/src/main/java/search/SearchTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebay/src/test/java/Testebay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebay/src/test/resources/ebayTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Amazon/Amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Amazon/src/main/java/Search/Searchtabing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Amazon/src/test/java/TestBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/FirstAutoSub2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstAutoSub2019/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/BestBuy/target/" />
+    <ignored path="$PROJECT_DIR$/ebay/target/" />
+    <ignored path="$PROJECT_DIR$/Macys/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Automation$TestBest.ic" NAME="TestBest Coverage Results" MODIFIED="1546310496359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="90" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Automation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="FxmlFile" />
+        <option value="XML Properties File" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Generic/src/main/java/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuy TestRunner.fxml" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuy TestRunner.xml" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/TestBest.java" />
+        <option value="$PROJECT_DIR$/Automation.iml" />
+        <option value="$PROJECT_DIR$/Target/pom.xml" />
+        <option value="$PROJECT_DIR$/Target/src/test/resources/TargetTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Target/src/main/java/Search/SearchPage.java" />
+        <option value="$PROJECT_DIR$/Target/src/test/java/TestTarget.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
+        <option value="$PROJECT_DIR$/BestBuy/src/main/java/Search/Searchtabing.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestBest.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/Search/Searchtabing.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/Testebay.java" />
+        <option value="$PROJECT_DIR$/ebay/pom.xml" />
+        <option value="$PROJECT_DIR$/ebay/src/test/resources/ebayTestRunner.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/Search/SearchTab.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Macys/src/main/java/search/SearchTab.java" />
+        <option value="$PROJECT_DIR$/Macys/src/main/resources/MacysTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Macys/src/test/java/TestMacys.java" />
+        <option value="$PROJECT_DIR$/Macys/src/test/resources/MacysTestRunner.xml" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/search/SearchTab.java" />
+        <option value="$PROJECT_DIR$/Macys/src/main/java/searchOption/Options.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Automation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ebay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546552205178" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Macys/src/test" />
+      <recent name="$PROJECT_DIR$/Generic/src/test" />
+      <recent name="$PROJECT_DIR$/Target/src/test" />
+      <recent name="$PROJECT_DIR$/BestBuy/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BestBuy/src/test" />
+      <recent name="$PROJECT_DIR$/BestBuy/src/test/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/apple/eclipse-workspace-hasan-java/Automation/Macys/src/test/resources/MacysTestRunner.xml">
+    <configuration name="Testebay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testebay" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testebay.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testebay" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/BestBuy/src/test/resources/ebayTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BestBuy/src/test/resources/ebayTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/Macys/src/test/resources/MacysTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Macys" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Macys/src/test/resources/MacysTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ebay/src/test/resources/ebayTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/apple/eclipse-workspace-hasan-java/Automation/Macys/src/test/resources/MacysTestRunner.xml" />
+        <item itemvalue="TestNG./Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" />
+        <item itemvalue="TestNG.Testebay.test1" />
+        <item itemvalue="TestNG.Testebay" />
+        <item itemvalue="TestNG./Users/apple/eclipse-workspace-hasan-java/Automation/BestBuy/src/test/resources/ebayTestRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b73dcd5d-776d-4574-96f2-fd27b0584773" name="Default Changelist" comment="" />
+      <created>1546290050071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546290050071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 02h 24m 22s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testebay_test1 - 2019.01.03 at 02h 25m 52s.xml">
+      <configuration name="Testebay.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 02h 28m 04s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 02h 33m 59s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 02h 50m 58s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 03h 10m 29s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 16h 24m 15s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_ebay_src_test_resources_ebayTestRunner_xml - 2019.01.03 at 16h 43m 47s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_Macys_src_test_resources_MacysTestRunner_xml - 2019.01.03 at 16h 44m 42s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/Macys/src/test/resources/MacysTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_apple_eclipse-workspace-hasan-java_Automation_Macys_src_test_resources_MacysTestRunner_xml - 2019.01.03 at 16h 50m 25s.xml">
+      <configuration name="/Users/apple/eclipse-workspace-hasan-java/Automation/Macys/src/test/resources/MacysTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.24474959" />
+      <window_info id="Structure" order="1" sideWeight="0.50151974" side_tool="true" weight="0.24474959" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50151974" side_tool="true" weight="0.24474959" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.337386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32917318" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32674772" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="11" />
+      <window_info anchor="bottom" id="Maven Repo Search" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49879518" weight="0.22051696" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Executor" order="9" show_stripe_button="false" weight="0.32976973" />
+      <window_info anchor="right" id="Maven-2 Build" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50120485" side_tool="true" weight="0.20771757" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24474959" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.337386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32917318" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32674772" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="11" />
+      <window_info anchor="bottom" id="Maven Repo Search" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49879518" weight="0.22051696" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Executor" order="9" show_stripe_button="false" weight="0.32976973" />
+      <window_info anchor="right" id="Maven-2 Build" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50120485" side_tool="true" weight="0.20771757" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/CommonAPI.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuy TestRunner.xml" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/resources.xml" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources.xml" />
+    <entry file="file://$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/target/test-classes/TestBest.class" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/target/test-classes/BestBuyTestRunner.xml" />
+    <entry file="file://$PROJECT_DIR$/Target/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Target/src/test/java/TestTarget.java" />
+    <entry file="file://$PROJECT_DIR$/Target/target/test-classes/TestTarget.class" />
+    <entry file="file://$PROJECT_DIR$/Target/src/test/resources/TargetTestRunner.xml" />
+    <entry file="file://$PROJECT_DIR$/Generic/Generic.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/main/java/Search/SearchPage.java" />
+    <entry file="file://$PROJECT_DIR$/Automation.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Macys/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Macys/src/main/java/search/SearchTab.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/resources/ebayTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/Testebay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/search/SearchTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Macys/src/test/java/TestMacys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Macys/src/main/java/searchOption/Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Macys/src/test/resources/MacysTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Generic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
